@@ -1,0 +1,5 @@
+Name= AB1
+Connectors= A,B
+Length:0.0
+Road name:none
+

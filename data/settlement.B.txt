@@ -1,0 +1,6 @@
+Name= B
+Connectors= AB1
+Population=0
+Kind=Town
+Lat,Long=0.0,0.0
+
